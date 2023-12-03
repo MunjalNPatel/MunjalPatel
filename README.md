@@ -17,7 +17,7 @@
   - Utilized Power BI for sprint reporting to enhance project efficiency.
   - Designed a Salesforce Lighting App for risk and issue tracking.
 
-## PROJECTS
+## [PROJECTS](Projects.md)
 
 ### New Mexico Cannabis Control Division
 **Role:** Sr. Business Analyst/Associate System Architect
