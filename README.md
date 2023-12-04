@@ -49,11 +49,7 @@
 
 ## SKILLS
 
-### Project Management
-* MS Project, Sprint management, Azure DevOps, Agile methodologies, Risk Management, Cost Management, Change management, Negotiations, Resource allocation, Statement of Work
+| **Project Management**                                     | **Analytics**                                           | **LEAN**                                                 |
+|------------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------------|
+| - MS Project<br>- Sprint management<br>- Azure DevOps Boards<br>- Agile methodologies<br>- Risk Management<br>- Cost Management<br>- Change management<br>- Negotiations<br>- Resource allocation<br>- Statement of Work | - Power BI<br>- SQL<br>- Microsoft Excel<br>- Data visualization<br>- Tableau | - Kanban<br>- Kaizen<br>- 6S<br>- 8 Waste<br>- CMS<br>- PDCA<br>- TPM<br>- TAKT time<br>- Poka-Yoke<br>- VSM (Value Stream Mapping) |
 
-### Analytics
-* Power BI, SQL, Microsoft Excel, Data visualization, Tableau.
-
-### LEAN
-* Kanban, Kaizen, 6S, 8 Waste, CMS, PDCA, TPM, TAKT time, Poka-Yoke, VSM (Value Stream Mapping).
