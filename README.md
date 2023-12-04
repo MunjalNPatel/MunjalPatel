@@ -1,6 +1,6 @@
 * **Phone:** 617.991.4938
 * **Email:** patelmunjal.edu@gmail.com
-* **LinkedIn:** [LinkedIn Profile](LinkedIn Link)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/munjalpatel03/)
 * **Location:** Pittsburgh, PA
 
 ## EXPERIENCE
